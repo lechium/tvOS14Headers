@@ -1,0 +1,13 @@
+/Volumes/Archer18J386.J42dOS/System/Library/CoreServices/CacheDeleteAppContainerCaches:
+	/System/Library/PrivateFrameworks/AssertionServices.framework/AssertionServices (compatibility version 1.0.0, current version 505.0.10)
+	/System/Library/PrivateFrameworks/MobileKeyBag.framework/MobileKeyBag (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/MobileInstallation.framework/MobileInstallation (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/CoreServices.framework/CoreServices (compatibility version 1.0.0, current version 1116.0.0)
+	/System/Library/PrivateFrameworks/CoreDuetDaemonProtocol.framework/CoreDuetDaemonProtocol (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/CoreDuet.framework/CoreDuet (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/CacheDelete.framework/CacheDelete (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/MobileSystemServices.framework/MobileSystemServices (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1751.106.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.0.0)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1751.106.0)

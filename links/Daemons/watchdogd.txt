@@ -1,0 +1,10 @@
+/Volumes/Archer18J386.J42dOS/usr/libexec/watchdogd:
+	/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit (compatibility version 1.0.0, current version 275.0.0)
+	/System/Library/PrivateFrameworks/ServiceManagement.framework/ServiceManagement (compatibility version 1.0.0, current version 2038.0.15)
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1751.107.0)
+	/System/Library/PrivateFrameworks/CoreAnalytics.framework/CoreAnalytics (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/BackBoardServices.framework/BackBoardServices (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/PrivateFrameworks/OSAnalytics.framework/OSAnalytics (compatibility version 1.0.0, current version 1.0.0)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.0.0)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1751.107.0)

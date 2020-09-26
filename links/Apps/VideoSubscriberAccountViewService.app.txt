@@ -1,0 +1,11 @@
+/Volumes/Archer18J386.J42dOS/Applications/VideoSubscriberAccountViewService.app/VideoSubscriberAccountViewService:
+	/System/Library/Frameworks/Foundation.framework/Foundation (compatibility version 300.0.0, current version 1751.107.0)
+	/System/Library/Frameworks/JavaScriptCore.framework/JavaScriptCore (compatibility version 1.0.0, current version 610.1.28)
+	/System/Library/Frameworks/Security.framework/Security (compatibility version 1.0.0, current version 59754.0.19)
+	/System/Library/PrivateFrameworks/TCC.framework/TCC (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/VideoSubscriberAccount.framework/VideoSubscriberAccount (compatibility version 1.0.0, current version 364.1.1)
+	/System/Library/PrivateFrameworks/VideoSubscriberAccountUI.framework/VideoSubscriberAccountUI (compatibility version 1.0.0, current version 364.1.1)
+	/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices (compatibility version 1.0.0, current version 1116.2.0)
+	/System/Library/Frameworks/UIKit.framework/UIKit (compatibility version 1.0.0, current version 3987.0.204)
+	/usr/lib/libobjc.A.dylib (compatibility version 1.0.0, current version 228.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.0.0)

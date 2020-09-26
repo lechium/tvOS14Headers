@@ -1,0 +1,5 @@
+/Volumes/Archer18J386.J42dOS/System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd:
+	/System/Library/PrivateFrameworks/CoreSymbolication.framework/CoreSymbolication (compatibility version 1.0.0, current version 64540.89.1)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1751.107.0)
+	/usr/lib/libc++.1.dylib (compatibility version 1.0.0, current version 904.4.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.0.0)
