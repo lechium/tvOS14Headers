@@ -1,0 +1,15 @@
+#import <CoreKnowledge/CKHistoricEvent.h>
+#import <CoreKnowledge/CKClosure.h>
+#import <CoreKnowledge/CKLogic.h>
+#import <CoreKnowledge/CoreKnowledge.CKDeviceKnowledgeStore.h>
+#import <CoreKnowledge/CKEntity.h>
+#import <CoreKnowledge/CoreKnowledge.CKTimedDispatch.h>
+#import <CoreKnowledge/CKKnowledgeStore.h>
+#import <CoreKnowledge/CoreKnowledge.Statement.h>
+#import <CoreKnowledge/CKDeviceActivityStore.h>
+#import <CoreKnowledge/CoreKnowledge.CKAbstractWriteBatch.h>
+#import <CoreKnowledge/CoreKnowledge.CKInMemoryWriteBatch.h>
+#import <CoreKnowledge/CoreKnowledge.CKUserDefaultsWriteBatch.h>
+#import <CoreKnowledge/CoreKnowledge.CKSQLWriteBatch.h>
+#import <CoreKnowledge/CoreKnowledge.CKCloudKitWriteBatch.h>
+#import <CoreKnowledge/CoreKnowledge.CKLogger.h>
